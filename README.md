@@ -1,6 +1,6 @@
 <pre>
   +                      .                                             
-    \.      .                                                                                                                                       
+    \.      .                                                                                                                     
      \\ _,.+;&*,                               +                                              
      .\\;;%($%$?~{                                     "The strongest principle of growth lies in human choice."
     (( f    ``;&$%)?              *
@@ -12,7 +12,7 @@
       ."           {}                    `    ;  C%$$)'             |                               |        
       :  ."-.___,'._________________.   ,)    |_.  \26*`            .    > LVL 4 YEARS EXP          .
       :  |     :  (                  \  .  `\.   \  `~".,           |    > MAIN ATK: SYSTEMS ENG    | 
-      ;  |     :  |        +          \  \    "_   \                .    > SPECIAL ATK: QUANTUM CS  .          
+      ;  |     :  |        +          \  \    "_   \                .    > SPECIAL ATK: QUANTUM CS  .     
       `.  -.   :  |                    )  )     "   ?               |    > STRENGTH: PYTHON & PHYS  |
 *       `. |   :  |                   '  /       :  |               .    > WEAKNESS: SOCIALIZING    .            +
                ;  .                  .  ,        :  (      *        |                               |
