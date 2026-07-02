@@ -2,9 +2,9 @@
   +
     \.      .                                                   
      \\ _,.+;&*,
-     .\\;;%($%$?~{                                        "The strongest principle of growth lies in human choice."
+     .\\;;%($%$?~{                                      "The strongest principle of growth lies in human choice."
     (( f    ``;&$%)?
-   /      _)    )$$%&@,                                                 --- Mary Ann Evans (1876)
+   /      _)    )$$%&@,                                               --- Mary Ann Evans (1876)
   ( ' ,.-'  j   '30&*~                         
    `''     ,|     }*%#6*"+.________,..,,_    ,+$%. 
      +      :     d&%3                   `\%*&'@"%~.
